@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)
+![Version](https://img.shields.io/badge/Version-1.1.0-brightgreen.svg)
 ![Python](https://img.shields.io/badge/Python-3.12%2B-blue.svg?logo=python&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420.svg?logo=ubuntu&logoColor=white)
 
@@ -17,8 +17,8 @@ This repository contains phenomenological models for transport properties in sup
 Clone the repository:
 
 ```bash
-git clone https://github.com/jczapata1/superconducting_transport.git
-cd superconducting_transport
+git clone https://github.com/jczapata1/superconducting-transport.git
+cd Superconducting_Transport
 ```
 
 Create and activate a virtual environment:
@@ -36,7 +36,8 @@ pip install -r requirements.txt
 
 ## Version Tracking
 
-* v1.0.0: Initial version.
+* v1.0.0: Resistance vs Temperature (Model and Fit).
+* v1.1.0: Resistance vs Temperature (Theory).
 
 ## Copyright and License
 
